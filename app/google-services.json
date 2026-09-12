@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "511332113875",
+    "project_id": "gt-notes",
+    "storage_bucket": "gt-notes.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:511332113875:android:ab5602db55d0916d6f6326",
+        "android_client_info": {
+          "package_name": "com.example.gtnotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "511332113875-fpcv0lepdqjfucsknadvc42ieg1fhgba.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXa0brBd9p7yFhKKlJf0K1Fee--I8pAuU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "511332113875-fpcv0lepdqjfucsknadvc42ieg1fhgba.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
